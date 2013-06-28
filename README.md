@@ -77,5 +77,5 @@ Note on Patches/Pull Requests
 Copyright
 =========
 
-Copyright (c) 2010 Ægir Örn Símonarson.
+Copyright (c) 2013 Ægir Örn Símonarson.
 See NOTICE and MIT-LICENSE for details.
