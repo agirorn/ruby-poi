@@ -78,4 +78,4 @@ Copyright
 =========
 
 Copyright (c) 2010 Ægir Örn Símonarson.
-See NOTICE and LICENSE for details.
+See NOTICE and MIT-LICENSE for details.
